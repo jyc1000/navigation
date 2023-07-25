@@ -14,7 +14,8 @@
     - Linear: (128, 64) - ReLu
     - Linear: (64, action_size)
 
-## Plot of rewards
+## Result and plot of rewards
+Environment solved in 294 episodes. Average score of above 13 over 100 episodes.
 
 ![Alt Text](Figure_1.png)
 
